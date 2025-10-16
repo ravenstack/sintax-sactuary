@@ -26,13 +26,19 @@ Cada pasta contém subpastas por linguagem (`python/`, `java/`, `cpp/`).
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/programming-examples.git
+   ```
+2. Acesse a linguagem desejada.
+3. Execute o código localmente e teste suas modificações.
+4. Ajuste o código, explore variações e salve seus experimentos.
+5. Envie melhorias via Pull Request se quiser contribuir!
 
+### ✅ Exemplo disponível
 
-Acesse a linguagem desejada.
+- [`fundamentos/python/entrada_saida.py`](fundamentos/python/entrada_saida.py): demonstra como ler informações digitadas no
+  console, validar a entrada (incluindo campos opcionais) e gerar mensagens personalizadas.
 
-Execute o código localmente e teste suas modificações.
-
-Envie melhorias via Pull Request se quiser contribuir!
+> Dica: execute o arquivo com `python fundamentos/python/entrada_saida.py` e experimente alterar as perguntas
+> para praticar outras situações de entrada e saída.
 
 🤝 Como contribuir
 
